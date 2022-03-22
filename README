@@ -1,4 +1,2 @@
-316559624
-Alona Laskar 316559624
-Ex1
+
 tweetsGenerator.c: The program accepts documents with a lot of sentences, and breaks the sentences into words and makes probabilities of words that appear after the sentence.
